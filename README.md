@@ -60,9 +60,6 @@ Users should be able to add , edit and delete comments. When a new comment is ad
 then it should be saved in the database along with that video.
 
 ---
-## 📷 Sample Outputs:
-
----
 # Steps that I used to initialise this project 🙃
 1. First I created the github repo for uploading my project!.
 2. Then links that repo with my new folder i.e. (YouTube_Clone)
